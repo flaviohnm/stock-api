@@ -36,10 +36,10 @@ create sequence hibernate_sequence start 1;
 ```
 ### :coffee:Confira o projeto publicado
 
-| Fase      | Plataforma | Link                                                         |
-| --------- | ---------- | ------------------------------------------------------------ |
-| Back-End  | Heroku     | [Api Rest - Stock](https://stock-santander-dio.herokuapp.com/bootcamp/swagger-ui.html) |
-| Front-End | GitPages   | [Dashbord - Stock](https://flaviohnm.github.io/homebroker/)  |
+| Fase      | Plataforma | Repo   | Link |
+| --------- | ---------- | ---------- | ---------- |
+| Back-End  | Heroku     | [Git](https://github.com/flaviohnm/stock-api) | [Api Rest - Stock](https://stock-santander-dio.herokuapp.com/bootcamp/swagger-ui.html) |
+| Front-End | GitPages   | [Git](https://github.com/flaviohnm/homebroker) |  [Dashbord - Stock](https://flaviohnm.github.io/homebroker/) |
 
 ## :pencil:Comentários sobre o projeto
 
